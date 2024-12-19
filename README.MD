@@ -5,5 +5,4 @@ RL_Game_Project/
 ├── policy_agent.py       # Policy Gradient agent
 ├── utils.py              # Helper functions
 ├── main.py               # Main script for training and evaluation
-├── results/              # Store plots and logs
 └── report/               # Final report and presentation
